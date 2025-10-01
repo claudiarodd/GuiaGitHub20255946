@@ -1,3 +1,3 @@
-Nombre: Claudia Renee Rodríguez Ruiz
-Carnet: 20255946
-Sección: 1B
+- Nombre: Claudia Renee Rodríguez Ruiz
+- Carnet: 20255946
+- Sección: 1B
